@@ -56,7 +56,7 @@ pytest_nenus/
    pytest test_nenus.py
    ```
    
-   or the following to see the log content in the console.
+   or run the following commend to see the log content in the console.
    
    ```bash
    pytest -s test_nenus.py
@@ -81,3 +81,4 @@ This is a screenshot for step 4: Initiates a chat with the agent
 3. **Only supports Homepage GitHub repo link entry**
 
    There are multiple ways for users to enter the workspace, but this script only handles the flow where the user accesses it via the GitHub repository link on the homepage.
+
